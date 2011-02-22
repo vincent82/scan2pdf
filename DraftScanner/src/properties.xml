@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<props consideraPersonalizzazioni="false">
+
+    <!-- proprietà per l'interazione con il file system -->
+    <!-- Percorso di memorizzazione dei file -->
+    <strProp Id="Resource_path" value="./Resources/" />
+    <!-- File pdf temporaneo -->
+    <strProp Id="PDF_temp" value="temp.pdf" />
+    <!-- File pdf prodotto in uscita -->
+    <strProp Id="RicettaPDF" value="ricetta.pdf" />
+    
+
+</props>
